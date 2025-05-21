@@ -7,7 +7,7 @@
 
 - 📫 How to reach me:
 
-  - 📧 **deeprajvadhwane01@gmail.com**
+  - 📧 **atikekarthik@gmail.com**
   - :bulb: [Medium blogs](https://medium.com/@atikekarthik)
   - :office: [LinkedIn](https://www.linkedin.com/in/karthik-varma45)
 
