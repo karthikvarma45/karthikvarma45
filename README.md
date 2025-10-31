@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikvarma45&label=Profile%20views&color=0e75b6&style=flat" alt="deeprajvadhwane" /> </p>
 
-- 🌱 I’m currently **Data Analysis**
+- 🌱 I’m currently working as  **Data science** Tranie at Innomatics Research Labs
 
 - 📫 How to reach me:
 
