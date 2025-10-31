@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikvarma45&label=Profile%20views&color=0e75b6&style=flat" alt="deeprajvadhwane" /> </p>
 
 - 🌱 I’m currently working as  **Data science** Tranie at Innomatics Research Labs
+- 👨‍💻 All of my projects are available Here
 
 - 📫 How to reach me:
 
@@ -28,7 +29,8 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  
+  <img width="300" height="285" alt="image" src="https://github.com/user-attachments/assets/c8813e81-1c7e-4816-9ce3-535d540ed909" />
+
   
 </p>
 
